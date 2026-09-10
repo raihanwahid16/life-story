@@ -104,7 +104,7 @@ console.log("hello");
 
 ### automatic link
 
-http://www.studywithanis.com
+http://www.studywithraihan.com
 
 ### disable link
 
@@ -124,7 +124,7 @@ http://www.studywithanis.com
 ### image sytax
 
 <!-- ![profile](./images/me.jpg) -->
-<img src="./temp/Raihan(lkolpola).JPG" width="550" height="5500" title="profile image"/>
+<img src="./temp/Raihan(lkolpola).JPG" width="550" height="550" title="profile image"/>
 😊
 
 <br/>
@@ -140,6 +140,6 @@ http://www.studywithanis.com
 <!-- all link is here -->
 
 
-[websitelink]: http://www.studywithanis.com
-[facebooklink]: https://www.facebook.com/studywithanis
+[websitelink]: http://www.studywithraihan.com
+[facebooklink]: https://www.facebook.com/studywithraihan
 
