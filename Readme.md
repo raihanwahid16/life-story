@@ -124,7 +124,7 @@ http://www.studywithraihan.com
 ### image sytax
 
 <!-- ![profile](./images/me.jpg) -->
-<img src="./temp/Raihan(lkolpola).JPG" width="550" height="550" title="profile image"/>
+<img src="./temp/Raihan(lkolpola).jpg" width="550" height="550" title="profile image"/>
 😊
 
 <br/>
